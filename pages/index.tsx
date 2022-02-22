@@ -3,7 +3,7 @@ import { useEffect } from "react";
 
 const Home = () => {
   useEffect(() => {
-    Router.push("/login");
+    Router.push("/multi");
   });
 
   return <></>;
